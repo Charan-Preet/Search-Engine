@@ -12,3 +12,5 @@
 - Application should be able to add a particular name and location in the above collection.
 - Application should return a list of entries in the above collection.
 - `Search bar` to give out a particular record that is searched for based on location or name.
+
+![website image](https://i.postimg.cc/0QqY3j2Y/Screenshot-2021-06-27-at-13-18-46-Search-Engine.png)
