@@ -51,7 +51,7 @@ function App() {
   }
   
   return (
-    <div classNameName="App flex flex-column">
+    <div className="App flex flex-column">
       <div className="wrap">
         <div className="search">
           <input onChange={(e) => setSearchData(e.target.value)} type="text" className="searchTerm" placeholder="Enter location or name to lookfor?" />
